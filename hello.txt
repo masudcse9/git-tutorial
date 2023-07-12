@@ -1,2 +1,4 @@
 Welcome to git
 this is a first commit
+
+learning about git
